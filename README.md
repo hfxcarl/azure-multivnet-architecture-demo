@@ -32,8 +32,8 @@ A comprehensive **multi-tier Azure infrastructure** demonstrating enterprise-gra
 
 ```bash
 # Clone repository
-git clone https://github.com/yourusername/azure-multivnet-architecture.git
-cd azure-multivnet-architecture
+git clone https://github.com/hfxcarl/azure-multivnet-architecture-demo.git
+cd ./azure-multivnet-architecture-demo/
 
 # Update parameters (add your SSH key and IP)
 vi deployment/main.bicepparam
