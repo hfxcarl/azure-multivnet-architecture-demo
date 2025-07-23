@@ -254,12 +254,6 @@ This repository demonstrates practical skills for:
 - **AZ-303/304: Microsoft Azure Architect Technologies/Design**
 - **AZ-500: Microsoft Azure Security Technologies**
 
-## 📞 Connect
-
-- **LinkedIn**: [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)
-- **Blog**: [Technical Blog Posts](https://yourblog.com)
-- **Email**: [your.email@domain.com](mailto:your.email@domain.com)
-
 ---
 
 ### 🌟 Star this repository if it helped you learn Azure networking concepts!
